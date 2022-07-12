@@ -1,0 +1,6 @@
+name: NSC
+version: '${project.version}'
+main: me.darklife12345.nsc.NSC
+api-version: 1.19
+authors: [ Darklife12345 ]
+description: Adds useful commands 
